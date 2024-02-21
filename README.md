@@ -1,5 +1,8 @@
 # openapi-docs-docly
 
+## requirements
+Docker engine must run
+
 ## Getting started
 To get started with this tool, first you have to clone a GIT repository to the folder: project
 ```
