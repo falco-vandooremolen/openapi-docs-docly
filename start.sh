@@ -13,6 +13,6 @@ docker-compose down
 cd project
 git pull
 cd ..
-cp project/$(jsonfile) src/api-docs.json
+cp project/$jsonfile src/api-docs.json
 
 docker-compose up -d
